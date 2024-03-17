@@ -1,7 +1,7 @@
 # CodeAlpha_Secure_Coding_Review
 ## Overview
 
-This repository contains a review of the secure coding practices implemented in the application developed for the intern task at CodeAlpha. The task involved selecting a programming language and developing an application, which was then subjected to a security review. The purpose of this review is to identify security vulnerabilities in the codebase and provide recommendations for secure coding practices.
+This repository reviews the secure coding practices implemented in the application developed for the intern task at CodeAlpha. The task involved selecting a programming language and choosing an open-source application, which was then subjected to a security review. This review aims to identify security vulnerabilities in the codebase and provide recommendations for secure coding practices.
 
 ## Task Requirements
 
