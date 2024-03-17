@@ -16,7 +16,10 @@ session_start();
 <div class="wrapper">
 
 <?php include("nav.inc.php"); ?>
-
+<!-- In the fixed code, I added a whitelist of allowed content files ( $allowedContentFiles ) and checked if
+the requested content is in this whitelist before including the corresponding file. This prevents arbitrary
+file inclusion and limits the included files to those explicitly allowed. If the requested content is not in the
+whitelist, it defaults to including the main.inc.php file. -->
     <?php
     // Whitelist of allowed content files
     $allowedContentFiles = array(
