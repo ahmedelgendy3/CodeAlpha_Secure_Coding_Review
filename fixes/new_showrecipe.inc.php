@@ -1,5 +1,5 @@
 <?php
-include 'config.php'; // Assuming this file contains database connection details
+include 'new_config.php'; // Assuming this file contains database connection details
 
 // Get the recipe ID from the URL parameter and sanitize it
 $recipeid = isset($_GET['id']) ? intval($_GET['id']) : 0;
