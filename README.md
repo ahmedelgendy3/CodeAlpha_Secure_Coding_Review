@@ -37,3 +37,18 @@ The codebase was reviewed for potential security vulnerabilities using manual co
 ## Conclusion
 
 The security review of the "ReciPHP" application has identified several security vulnerabilities and provided recommendations for enhancing the security posture of the codebase. By implementing the recommended secure coding practices, the application can better withstand potential security threats and protect user data.
+
+## Resources
+
+- [ReciPHP Source-Code](https://sourceforge.net/projects/reciphp/)
+- [TryHackMe SAST Room](https://tryhackme.com/room/sast)
+- [Pentesterlab Code Review](https://pentesterlab.com/exercises/codereview/course) 
+- [secure-code-review-checklist](https://github.com/softwaresecured/secure-code-review-checklist)
+- [PHP-vulnerability-audit-cheatsheet](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet)
+- [php-pdo-prepared-statements-to-prevent-sql-injection](https://websitebeaver.com/php-pdo-prepared-statements-to-prevent-sql-injection)
+- [OWASP TOP TEN](https://owasp.org/www-project-top-ten/)
+- [OWASP Security Code Review 101](https://owasp.org/SecureCodingDojo/codereview101/)
+- [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- [OWASP XSS (Cross Site Scripting) Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DOM_based_XSS_Prevention_Cheat_Sheet.html)
+- [OWASP PHP Configuration Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
+
